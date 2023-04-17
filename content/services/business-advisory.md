@@ -1,64 +1,28 @@
 ---
-title: 'Business Advisory'
+title: "End to end AI & ML Services"
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+icon: "services/service-icon-2.png"
 featured: true
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
-heroBackground: 'services/service2.jpg'
+heroHeading: "End to end AI & ML Services"
+heroSubHeading: "Integrate intelligent solutions into your business. Adapt to the new-age methodologies"
+heroBackground: "services/service2.jpg"
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+Automation has penetrated its roots in almost every niche today. But even then companies are struggling with getting the desired results of it. The cause behind that is the incompetence of these automation tools to respond to complex real-world tasks. At Synycs, we map out the perfect solution for you by incorporating Machine Learning and Artificial Intelligence. We make sure to develop solutions that are tailor-made for you, by understanding your product needs.
 
-## Inter pectore totidem
+## Services
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+1. Virtual Assistance
+2. Data Visualization
+3. Cognitive Automation
+4. Visual Processing
+5. Robotic Process Automation
+6. Predictive Analysis
 
-## Novis hunc qua erat caecisque
+## The impact
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
-
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+1. Our intelligent bots integrate seamlessly with multiple devices and systems
+2. Real-world interaction models coupled with cognitive computing offers better User Experience
+3. More automation translates to better efficiency and improved delivery speed
+4. An ideal integration will include functional and aesthetic sides of the Bots

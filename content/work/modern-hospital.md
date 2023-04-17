@@ -1,21 +1,25 @@
 ---
-title: 'Modern Hospital'
+title: "Customer Relationship Management (CRM)"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 2
-heroHeading: 'Modern Hospital Design'
-heroSubHeading: 'Designing a new modern hospital wing'
-heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
-thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+heroHeading: "Customer Relationship Management (CRM)"
+heroSubHeading: ""
+heroBackground: "https://source.unsplash.com/iqGtaQnk3VM/1600x400"
+thumbnail: ""
+images: []
 ---
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+The digital era came with the opening of a lot more customer touchpoints. The acquisition of customers through these numbers of channels has an effect on the customers where they expect better engagement with the services they sign up for. They expect an omnipresent, personalised approach and support. With the right CRM solution, you can meet all these requirements in terms of strategy, systems and operational aspects. We offer you the following services.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+#### Our Services in CRM
+
+1. Consulting & Planning
+2. Implementation & Deployment
+3. Customization, Integration & Enhancement
+4. Support & Maintenance
+5. Migration / Product Upgrade
+6. Consolidation & Integration
+7. Independent Validation & Verification
+8. Custom Application & Module / Plugin Development
+9. Legacy Applications Upgradation, Enhancement & Performance Tuning

@@ -1,50 +1,27 @@
 ---
-title: 'Tax Filing'
+title: "Data Analytics"
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-6.png'
+icon: "services/service-icon-6.png"
 draft: false
 featured: true
 weight: 2
-heroHeading: 'Tax Filing '
-heroSubHeading: 'Preparing and filing your tax return'
-heroBackground: 'services/service2.jpg'
+heroHeading: "Data Analytics"
+heroSubHeading: "Convert your Big Data into Big Money!"
+heroBackground: "services/service2.jpg"
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+IoT has brought immense value to data. Analysing this data to bring meaning to it takes a lot of expertise and effort. Transform your everyday work with data-driven decision making and is considered a key asset in the growth of the business. We offer you data analytic services to help you grow at a much faster pace efficiently.
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+- Customer Analytics
+- Risk Analytics
+- Data Science & Big Data
+- Financial Analysis
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+## The impact
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+#### Analyze and make data-driven decisions
 
-## Patulis Veneris est expulit adversaque magnum mediaque
-
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+- Personalized solutions depending upon your data
+- Competitive market utilizing big data
+- Optimization of business processes
+- Threats and Risks forecasting

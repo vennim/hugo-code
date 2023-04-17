@@ -1,21 +1,40 @@
 ---
-title: 'Cargo Terminal'
+title: "Content Management System (CMS)"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 3
-heroHeading: 'Cargo Terminal'
-heroSubHeading: 'Dockyard construction planning and review.'
-heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
-thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+heroHeading: "Content Management System (CMS)"
+heroSubHeading: ""
+heroBackground: "https://source.unsplash.com/tjX_sniNzgQ/1600x400"
+thumbnail: ""
+images: []
 ---
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We provide solutions for implementing your Content Management System from the Planning phase to implementation. Our expertise in the field of developing successful CMS systems ensure you a hassle-free experience on the development and implementation of proprietary tools, methodologies, frameworks, accelerators, and custom solutions built for you.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+#### Services
+
+- Consulting & Planning
+- Implementation & Deployment
+- Customization, Integration & Enhancement
+- Support & Maintenance
+- Migration / Product Upgrade
+- Consolidation & Integration
+- Independent Validation & Verification
+- Custom Application & Module / Plugin Development
+- Legacy Applications Upgradation, Enhancement & Performance Tuning
+- Corporate Websites & Portals
+- Intranet Websites for Corporates
+- News Publishing Websites
+- Online Magazines, Newspaper & Publication Websites
+- Education / E-Learning Websites
+- Art, Music & Multimedia Websites
+- Government Websites
+- Nonprofit / NGO Websites
+- Transportation Websites
+- Community Portals
+- Middleware Development - Web Services / API
+- Third Party Tools OR Plug-in Integration (Like Chat, Forum, Blog, Search Engine, etc.)
+- Social Network Integration (Like Facebook, Twitter, LinkedIn, etc.)
+- Bug Fixing, Support, Maintenance, Enhancements & Performance Tuning in Existing
+- Application

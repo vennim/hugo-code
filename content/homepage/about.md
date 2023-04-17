@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: "Our Process"
 weight: 2
-background: ''
-button: 'About Us'
-buttonLink: 'about'
+background: ""
+button: "About Us"
+buttonLink: "about"
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+We partner with you to maximise your business reputation and improve your IT infrastructure.
