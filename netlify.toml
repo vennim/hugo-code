@@ -6,3 +6,5 @@
 HUGO_VERSION = "0.95.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+HUGO_THEME = "Hero"
+HUGO_BASEURL = "/"
