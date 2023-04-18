@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://master--logarithms.netlify.app/"
 languageCode = "en-us"
 title = "Logarithms - Software Development & Consulting Company"
 themesDir = "themes"
