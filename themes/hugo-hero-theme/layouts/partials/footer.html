@@ -1,0 +1,16 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          {{ if .Site.Data.social }} {{ end }}
+          <ul class="footer-menu">
+            <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+            <li><a href="{{ .Site.BaseURL }}contact">Contact</a></li>
+            <li class="copyright">© {{ "2022" }} {{.Site.Title}}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
